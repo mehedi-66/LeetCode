@@ -16,7 +16,7 @@ Given a string s, return the longest palindromic substring in s.
     Input: s = "cbbd"
     Output: "bb"
 
-### How to think and hince:
+### How to think and hint:
 ---
 
 #### Method 1
