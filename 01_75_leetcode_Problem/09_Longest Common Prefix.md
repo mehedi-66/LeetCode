@@ -139,6 +139,7 @@ class Trie{
             // present
             if(root-> children[index] != NULL)
             {
+                // index based forward to Tree
                 child = root->children[index];
             }
             else{
